@@ -1,0 +1,22 @@
+Super Mario Brothers; arcarde scrolling platform game, evade or destroy enemies, run and jump from platform to platform, super power modes
+Asteroids; arcarde shooting game, moving field of asteroids, evade or destroy objects, player-controlled starship, laser, rotation, thrusters, and teleportation
+Gran Tourismo; arcade car racing game, compete against the computer or other players, win prize money to upgrade car
+Centipede; arcade shooting game, evade or destroy enemies, changing field of mushrooms, laser weapon, enemy morphs or divides when hit
+Pac-Man; arcarde maze game, navigate maze, evade or temporarily destroy enemies, consume all dots on screen to advance
+Tetris; arcade puzzle game, match falling pieces to form solid rows, solid rows disappear to make room for more pieces
+Quake; first person shooter, evade or destroy enemies, multiple weapons, multiple levels
+Myst; single-player adventure puzzle game, solve story puzzles, explore immersive worlds, logic and skill puzzles
+Scrabble; turn-based board game, spell words with lettered tiles, longer words earn more points
+Monopoly; turn-based board game, acquire wealth and property, bankrupt opponents, buy, sell, trade, develop and rent properties
+Age of Empires; real time strategy game, command armies in battle, conquer foes to acquire new territory, lead a civilization through increasing technological development
+Portal; first-person puzzle game, use teleportation gun to overcome obstacles
+Manhunt; third-person stealth game, avoid detection while eliminating enemies, 
+World of Warcraft; massively multiplayer online role playing game, create a hero or villain and work in groups to complete quests, earn money and upgrade weapons, equipment and skills
+The Sims; strategic life-simulation game, manage the daily lives of avatars, keep Sims happy and fulfilled by balancing work, recreation, and romance
+Donkey Kong; platform game, jump over barrels while ascending a series of ramps and ladders
+Grand Theft Auto; sandbox-style action adventure game, complete mission involving criminal activity in an open, non-linear world to increase your status, use a variety of weapons and unarmed combat, complete various side missions
+Guitar Hero; music game, manipulate a guitar-style controller to match on-screen cues, keep the crowd excited by playing accurately
+Sonic the Hedgehog; side-scrolling platform game, high-speed gameplay, run through levels avoiding obstacles, ecological theme
+Katamari Damacy; third-person puzzle action game,  collect objects by rolling them together into a ball, collect objects to create clusters of a certain size in the time limit
+WILDCARD;
+WILDCARD;
