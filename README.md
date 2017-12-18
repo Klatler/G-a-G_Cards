@@ -1,7 +1,7 @@
 # G-a-G_Cards
-This is a digital version of "Grow-A-Game Cards" by Values at play.
+This is a digital version of "Grow-A-Game Cards" by Values At Play.
 There is an iOS App available of the deck, however it is outdated and does not work with iOS 11.
-Because of that I made this little Tool using Processing.
+Because of that I made this little tool using Processing.
 All of the card names and descriptions were extracted from the print version of the card deck and can be edited in the corresponding text files (Cards are being split by line breaks, if there is additional information such as descriptions or strategies they are seperated from the card name by semicolons, respectively)
 
 It is intendet to be used as follows:
